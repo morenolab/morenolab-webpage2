@@ -131,8 +131,29 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+
+# new sections
+
+- title: Team
+  url: /team/
+
+- title: Projects
+  url: /project/
+
+- title: News
+  url: /news/
+
+- title: Publications
+  url: /publications/
+
+- title: Contact
+  url: /contact/
+
+- title: MXBiobank
+  url: https://www.mxbiobank.org
+
+- title: MexVar
+  url: https://morenolab.shinyapps.io/mexvar/
 
 navigation_footer:
 - title: Created by David Darnes

@@ -3,9 +3,12 @@ layout: page
 title: Moreno Lab
 permalink: /
 description: Human Evolutionary and Population Genomics
+image: /assets/images/home_banner.jpg
 ---
 
 ## Human Evolutionary and Population Genomics
+
+![Logo](/assets/images/home_banner.jpg)
 
 The Moreno Lab studies genetic diversity and host–pathogen interactions to better understand disease risk and population health, with a focus on Latin American populations.
 
