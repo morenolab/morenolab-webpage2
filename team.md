@@ -2,7 +2,7 @@
 layout: page
 title: "Team"
 description: "CINVESTAV Sede Sur, Mexico"
-feature_image: "assets/images/team/portada2026.png"
+feature_image: "/assets/images/team/portada2026.png"
 order: 2
 ---
 
@@ -10,7 +10,7 @@ order: 2
 
 ### Andrés Moreno Estrada
 
-![Andrés Moreno Estrada](assets/images/team/Andres_Moreno.png)
+![Andrés Moreno Estrada](/assets/images/team/Andres_Moreno.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 I am a medical doctor and population geneticist deeply interested in molecular evolution and its implications in human population history and medical genomics. During my PhD I was trained in evolutionary and population genetics, which complemented my previous medical background. As a postdoctoral fellow with Dr. Carlos Bustamante and research associate at Stanford University, my work integrated genomics, evolution and precision medicine in many different projects involving large collections of populations, in particular from the Americas and the Pacific. Our group is interested in human evolution, adaptation, and population history as well as the biomedical implications of human genetic diversity in underserved populations of the world.
 
@@ -18,11 +18,11 @@ I am a medical doctor and population geneticist deeply interested in molecular e
 
 ---
 
-## Laboratory Manager**
+## Laboratory Manager
 
 ### Flor de María Montes de Oca González
 
-![Flor Montes de Oca](assets/images/team/Flor.jpeg)
+![Flor Montes de Oca](/assets/images/team/Flor.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 I am the Lab Manager at the Moreno Lab, where I support the coordination, organization, and day-to-day operations of the lab, contributing to the smooth development of research projects and collaborative activities. I have extensive experience in project management, institutional coordination, and international cooperation, with a strong background in human rights, gender, and public policy. I hold a Master's degree in Human Rights, a specialization in Gender and Law, and undergraduate degrees in Law and International Relations. I have over 20 years of experience working across government institutions, international organizations, and civil society, including roles at the National Human Rights Commission of Mexico (CNDH), the National Institute for Women (Inmujeres), and the Ministry of Foreign Affairs (SRE). Outside the lab, I enjoy book clubs and theater, and spend a surprising amount of time trying to keep my plants alive.
 
@@ -34,7 +34,7 @@ I am the Lab Manager at the Moreno Lab, where I support the coordination, organi
 
 ### Daniel Bustos Diaz
 
-![Daniel Bustos Diaz](assets/images/team/Flor.jpeg)
+![Daniel Bustos Diaz](/assets/images/team/Flor.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 Text
 
@@ -44,7 +44,7 @@ Text
 
 ### José Antonio Corona (Josian)
 
-![José Antonio Corona](assets/images/team/Flor.jpeg)
+![José Antonio Corona](/assets/images/team/Flor.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 Text
 
@@ -54,7 +54,7 @@ Text
 
 ### Marisol Naydú Espitia Fajardo
 
-![Marisol Naydú Espitia Fajardo](assets/images/team/Flor.jpeg)
+![Marisol Naydú Espitia Fajardo](/assets/images/team/Flor.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 Text
 
@@ -64,17 +64,17 @@ Text
 
 ### Consuelo Dayzú Quinto Cortés
 
-![Consuelo Quinto-Cortes](assets/images/team/Consuelo_Quinto.png)
+![Consuelo Quinto-Cortes](/assets/images/team/Consuelo_Quinto.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 Text
 
-[Email](mailto:consuelo.quinto@cinvestav.mx)
+[Email](mailto:consuelo.quinto@cinvestav.mx) · [Google Scholar](https://scholar.google.com/citations?user=qJvrhPoAAAAJ&hl=es&oi=ao)
 
 ---
 
 ### Camila Tamburrini
 
-![Camila Tamburrini](assets/images/team/Consuelo_Quinto.png)
+![Camila Tamburrini](/assets/images/team/Consuelo_Quinto.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 Text
 
@@ -86,7 +86,7 @@ Text
 
 ### Carmina Barberena-Jonas
 
-![Carmina Barberena-Jonas](assets/images/team/Flor.jpeg)
+![Carmina Barberena-Jonas](/assets/images/team/Flor.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 Text
 
@@ -96,7 +96,7 @@ Text
 
 ### María Fernanda Elías Navarro
 
-![María Fernanda Elías Navarro](assets/images/team/Flor.jpeg)
+![María Fernanda Elías Navarro](/assets/images/team/Flor.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 I am Maria Fernanda Elias Navarro, originally from Guadalajara, where I earned my undergraduate degree in Biology from the University of Guadalajara. I later completed a master's degree in Integrative Biology, focusing on introgression analysis among archaic hominins. Currently, I am a second-semester PhD student in Integrative Biology, specializing in paleogenomic analyses of an archaeological site in Xalla, Teotihuacan. I am passionate about evolution and population genomics. In my free time, I enjoy playing volleyball, watching horror movies, and spending time with my dogs.
 
@@ -106,7 +106,7 @@ I am Maria Fernanda Elias Navarro, originally from Guadalajara, where I earned m
 
 ### Aaron Espinosa Jaime
 
-![Aaron Espinosa Jaime](assets/images/team/Flor.jpeg)
+![Aaron Espinosa Jaime](/assets/images/team/Flor.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 I'm a first year PhD student interested in computational human genomics. During my master's I contributed bioinformatically to map an immune atlas using single-cell transcriptomics (LatinCells). However, I have also been involved in microbiome and science outreach projects. Since 2023 I've been an active member of RSG-México (ISCB), a platform that brings people closer to computational biology, enabling them to use it as a tool for work and communication. Currently, my research focuses on describing novel ageing-associated DNA methylation patterns in Latin American populations using long-read sequencing kinetics (LatinGenomes). Perfect plan? Hiking and plant shopping.
 
@@ -116,7 +116,7 @@ I'm a first year PhD student interested in computational human genomics. During 
 
 ### Ram González
 
-![Ram González](assets/images/team/Flor.jpeg)
+![Ram González](/assets/images/team/Flor.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 I am a computational biologist with a strong interest in genetics and evolution. My research focuses on understanding how natural selection has shaped human populations from Latin America and Oceania. I work at the intersection of population genomics, evolutionary theory, anthropology, and data science, with a particular emphasis on genetic diversity, admixture, and local adaptation. Outside of work, I enjoy learning about design, traveling, and spending time outdoors.
 
@@ -126,17 +126,17 @@ I am a computational biologist with a strong interest in genetics and evolution.
 
 ### Santiago Medina
 
-![Santiago Medina](assets/images/team/Santiago.jpg)
+![Santiago Medina](/assets/images/team/Santiago.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 I am a computational biologist with a degree in Agro-genomic Sciences at UNAM. My research passion lies in evolutionary genetics, with a focus on understanding population history and migration dynamics in Indigenous populations from Mexico. I also have a deep interest in mathematics—especially probability theory. Outside of my academic work, I enjoy spending time with friends and exploring nature through hiking or gravel biking. These days, I heroically attempt to finish my PhD.
 
-[Email](mailto:santiago.medina@cinvestav.mx) · [Website](https://sequoia-tamarillo-4a9.notion.site/Santiago-G-Medina-Mu-oz-c9630a6344dd46f28acf262a4fc7b28b/) · [Google Scholar](https://scholar.google.com/citations?user=XW3Sz1kAAAAJ&hl=es&oi=ao)
+[Email](mailto:santiago.medina@cinvestav.mx) · [Website](https://sequoia-tamarillo-4a9.notion.site/Santiago-G-Medina-Mu-oz-c9630a6344dd46f28acf262a4fc7b28b/) · [Google Scholar](https://scholar.google.com/citations?user=XW3Sz1kAAAAK&hl=es&oi=ao)
 
 ---
 
 ### Daniela Orozco
 
-![Daniela Orozco](assets/images/team/Daniela.jpeg)
+![Daniela Orozco](/assets/images/team/Daniela.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 I'm Daniela Orozco, currently finishing my PhD in ancient DNA research. I studied Genomic Sciences at UNAM, where I first developed my long-standing fascination with evolution. My current project focuses on Cañada de la Virgen, an archaeological site in Mexico, where I study the genetic history of elite individuals buried there. In the lab, I love turning complex data into clear stories through maps and plots—data visualization is definitely my happy place. Outside of research, you'll find me watching films (and logging them religiously on Letterboxd), hanging out with friends, spoiling my cat Pato, or out on my bike—road cycling has recently become one of my favorite ways to disconnect and recharge.
 
@@ -146,7 +146,7 @@ I'm Daniela Orozco, currently finishing my PhD in ancient DNA research. I studie
 
 ### Octavio Zambada Moreno
 
-![Octavio Zambada Moreno](assets/images/team/Octavio.jpg)
+![Octavio Zambada Moreno](/assets/images/team/Octavio.jpg){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 I am a genomic biotechnologist interested in transcriptomics, gene regulation, and systems biology, integrating both bioinformatics and wet-lab approaches. Integrating multi-omics data to better understand and explain complex biological systems is something I am passionate about. For my PhD project, I study immune cell variation in Indigenous Latin American populations by combining single-cell transcriptomics, population genomics, and computational modeling. Through these approaches, I aim to characterize how genetic background influences gene expression programs and immune responses. Outside of research, I enjoy video and board games, volleyball, and discovering and learning about foods and cuisines from around the world.
 
@@ -158,7 +158,7 @@ I am a genomic biotechnologist interested in transcriptomics, gene regulation, a
 
 ### Ricardo Rodríguez Ojeda
 
-![Ricardo Rodríguez Ojeda](assets/images/team/Ricardo_Rodriguez.png)
+![Ricardo Rodríguez Ojeda](/assets/images/team/Ricardo_Rodriguez.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 I am a Pharmaceutical Chemist Biologist from the University of Guanajuato and a third-semester Master's student in Integrative Biology. I am currently part of Moreno's Lab, where I specialize in computational biology and human population genomics. My research focuses on admixture processes in Mexico, aiming to understand the genetic complexity of Mexican populations by analyzing genomic data to explore demographic history, migration patterns, and the genetic impact of colonization that have shaped contemporary Mexican genetics. Outside of research, I enjoy reading, swimming, exercising, and listening to music.
 
