@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Team"
+title: ""
 description: "CINVESTAV Sede Sur, Mexico"
 feature_image: "/assets/images/team/portada2026.png"
 order: 2
@@ -8,9 +8,10 @@ order: 2
 
 ## Principal Investigator
 
-### Andrés Moreno Estrada
-
-![Andrés Moreno Estrada](/assets/images/team/Andres_Moreno.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
+<div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 40px;">
+  <img src="/assets/images/team/Andres_Moreno.png" alt="Andrés Moreno Estrada" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
+  <h2 style="margin: 0; border-bottom: none;">Andrés Moreno Estrada</h2>
+</div>
 
 I am a medical doctor and population geneticist deeply interested in molecular evolution and its implications in human population history and medical genomics. During my PhD I was trained in evolutionary and population genetics, which complemented my previous medical background. As a postdoctoral fellow with Dr. Carlos Bustamante and research associate at Stanford University, my work integrated genomics, evolution and precision medicine in many different projects involving large collections of populations, in particular from the Americas and the Pacific. Our group is interested in human evolution, adaptation, and population history as well as the biomedical implications of human genetic diversity in underserved populations of the world.
 
@@ -20,9 +21,10 @@ I am a medical doctor and population geneticist deeply interested in molecular e
 
 ## Laboratory Manager
 
-### Flor de María Montes de Oca González
-
-![Flor Montes de Oca](/assets/images/team/Flor.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
+<div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 40px;">
+  <img src="/assets/images/team/Flor.png" alt="Flor Montes de Oca" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
+  <h2 style="margin: 0; border-bottom: none;">Flor Montes de Oca</h2>
+</div>
 
 I am the Lab Manager at the Moreno Lab, where I support the coordination, organization, and day-to-day operations of the lab, contributing to the smooth development of research projects and collaborative activities. I have extensive experience in project management, institutional coordination, and international cooperation, with a strong background in human rights, gender, and public policy. I hold a Master's degree in Human Rights, a specialization in Gender and Law, and undergraduate degrees in Law and International Relations. I have over 20 years of experience working across government institutions, international organizations, and civil society, including roles at the National Human Rights Commission of Mexico (CNDH), the National Institute for Women (Inmujeres), and the Ministry of Foreign Affairs (SRE). Outside the lab, I enjoy book clubs and theater, and spend a surprising amount of time trying to keep my plants alive.
 
@@ -32,11 +34,14 @@ I am the Lab Manager at the Moreno Lab, where I support the coordination, organi
 
 ## Postdoctoral Fellows
 
-### Daniel Bustos Diaz
+<div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 40px;">
+  <img src="/assets/images/team/daniel.jpg" alt="Edder Daniel Bustos Diaz" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
+  <h2 style="margin: 0; border-bottom: none;">Edder Daniel Bustos Diaz</h2>
+</div>
 
-![Daniel Bustos Diaz](/assets/images/team/Flor.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
+I do have a scientific interest in multiple things, but the PacBio and Illumina of it (pun intended) is that I am passionate about everything sequencing related, IT infrastructure and running experiments. I am currently working on the Latin Pangenome project, managing data and working with assemblies. I am in charge of Kexol, our HPC cluster, some of the lab's websites and general IT/wet lab stuff, working alongside Flor, the lab manager, to make sure that bits and tips are working as intended. 
 
-Text
+I got my PhD degree from CINVESTAV (Integrative Biology), and I've previously worked at Leiden University, the Naturalis Biodiversity Center and the private sector. On a personal note, I like sports and I support middle of the road teams such as the Arizona Cardinals, FC Bercelona and AFC Bournemouth. Also, my favorite writers are JL Borges and Italo Calvino.
 
 [Email](mailto:edder.bustos@cinvestav.mx)
 
@@ -44,7 +49,6 @@ Text
 
 ### José Antonio Corona (Josian)
 
-![José Antonio Corona](/assets/images/team/Flor.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
 Text
 
@@ -52,13 +56,22 @@ Text
 
 ---
 
+![José Antonio Corona](/assets/images/team/Flor.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
+
+I am a physicist, turned evolutionary biologist. I have been involved in modeling evolutionary phenomena, exploring with computer simulations, and analyzing comparative genomic data in diverse organisms. I completed a PhD in the Universitat Pompeu Fabra in Barcelona in 2016, and have, since then, been a postdoctoral researcher at the Université Claude Bernard Lyon 1, then at the École Normale Supérieure de Lyon, and until recently, at the Université de Lausanne. The focus of my research has changed throughout these years, from the evolution of recombination, to gene expression in flower morphogenesis, to structural variation in clownfish. As part of the Human Evolutionary Population Genomics Group, I will be involved in several projects. After many years abroad, I am very excited to be back in my home town, hoping to contribute to the understanding of evolutionary history and diversity of Latin American populations. Beyond my strict academic work, I participate in initiatives searching for alternative structures and paths within the current academic system. In my spare time, I like to enjoy the present with family and friends, outdoors, hiking or biking. I appreciate dark coffee a lot, many times a day, but nothing beats a cold beer under the warm sun after some sport.
+
+---
+
 ### Marisol Naydú Espitia Fajardo
 
 ![Marisol Naydú Espitia Fajardo](/assets/images/team/Flor.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
-Text
+I am a biologist with a Master's and Doctorate in Biological Sciences from the Universidad del Valle, Colombia. I am passionate about population genetics and the study of human genomic diversity. My academic training has focused on the analysis of genetic diversity and population structure in indigenous communities in Colombia, with the aim of understanding their demographic dynamics and evolutionary relationships with other Amerindian populations.
+I am currently working as a postdoctoral researcher in Dr. Moreno's lab, where I am delving into the development and application of high-resolution bioinformatics and genomic tools for the study of human diversity in Latin America. My work integrates whole genome analysis, demographic inference, and population genetics approaches to contribute to a more inclusive understanding of genetic variation in historically underrepresented populations.
+Outside of science, I enjoy swimming in the afternoons, listening to music while solving puzzles or Sudoku, reading romance novels, and spending time with my family and friends.
 
-[Twitter](https://x.com/Marisolbiologie)
+
+[Email](mailto:marisol.espitia@cinvestav.mx) · [Twitter](https://x.com/Marisolbiologie)
 
 ---
 
@@ -88,7 +101,7 @@ Text
 
 ![Carmina Barberena-Jonas](/assets/images/team/Flor.png){: width="150px" height="150px" style="object-fit: cover; border-radius: 50%;"}
 
-Text
+I'm a PhD candidate at CINVESTAV and I’m a graduate from the Undergraduate Program on Genomic Sciences from the National Autonomous University of Mexico (UNAM). My current project in MorenoLab involves the analysis of identity-by-descent genomic segments to determine the population structure of Mexico and their implications in biomedical traits using the data from the Mexican BioBank (MXB). I’m developing the tool MexVar to explore and query the MXB biomedical data. I am also involved in other projects such as the Oceanian Genome Variation Project and LatinCells. I like photography, surrealist paintings, and camping. I have two lovable, super-smart, albino rats named Genevieve and Rosalind.
 
 [Email](mailto:carmina.barberena@cinvestav.mx) · [Twitter](https://x.com/BarjonCar) · [Google Scholar](https://scholar.google.com/citations?user=W39_jzcAAAAJ&hl=es)
 
