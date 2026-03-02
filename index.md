@@ -9,10 +9,9 @@ image: /assets/images/home_banner.jpg
   <img src="/assets/images/home_banner.png" alt="DNA banner" style="width: 100%; height: auto; display: block;">
 </div>
 
-The Human Evolutionary and Population Genomics lab (Moreno Lab) studies genetic diversity with a focus in Latin American populations. 
+The Human Evolutionary and Population Genomics lab was established in Mexico back in 2015 and its primary research focus is human diversity and population genetics, applying genomic and computational tools to answer questions about human evolution, with particular interest in populations from the Americas and the Pacific.
 
-[Explore Research →](/research/)  
-[View Publications →](/publications/)
+Our work spans population structure, demographic inference, selection, adaptive evolution, and the functional and biomedical implications of human genetic variation.
 
 ---
 
@@ -21,23 +20,13 @@ The Human Evolutionary and Population Genomics lab (Moreno Lab) studies genetic 
 ### Population Genomics
 We investigate patterns of genetic diversity, ancestry, and demographic history to understand population structure and its implications for health and disease.
 
-### Host–Pathogen Interactions
-Our work integrates genomics and serological data to study infectious disease susceptibility and immune response variation.
+### Medical Genomics
 
-### Biostatistics & Data Science
-We develop and apply scalable analytical pipelines for large-scale genomic and phenotypic datasets.
+### Epigenetic landscape in Latin America
 
-[Learn more about our research →](/research/)
+### Ancient DNA
 
----
-
-## Featured Initiative
-
-### Mexican Biobank (MXB)
-
-We contribute genomic and phenotypic analyses to advance population-based research and improve understanding of disease risk in Mexico.
-
-[More about our projects →](/research/)
+[Learn more about our research →](/projects/)
 
 ---
 
@@ -51,22 +40,11 @@ We contribute genomic and phenotypic analyses to advance population-based resear
 
 ---
 
-## Meet the Team
-
-The Moreno Lab brings together researchers in genomics, infectious disease biology, and quantitative data science.
-
-[Meet the team →](/team/)
-
----
-
 ## Funding & Collaborations
 
 Our research is supported by international and national funding agencies and conducted in collaboration with academic and clinical partners.
 
----
+- [SECIHTI](https://secihti.mx/) (Secretaría de Ciencias, Humanidades, Tecnología e Innovación)
+- [Wellcome Trust](https://wellcome.org/)
+- [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)
 
-## Collaborate With Us
-
-We welcome collaborations in population genomics, infectious disease research, and biostatistical methodology.
-
-[Contact us →](/contact/)

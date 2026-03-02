@@ -58,3 +58,15 @@ styles: true
   background-color: #111;
   border-radius: 2px;
 }
+
+.unit, .wrapper, .container {
+  max-width: 95% !important; /* Forces the container to be wider */
+  width: 95% !important;     /* Ensures it fills the screen on large monitors */
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Ensure the main grid/layout doesn't restrict the width */
+.grid {
+  max-width: 100% !important;
+}

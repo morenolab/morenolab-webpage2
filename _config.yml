@@ -39,25 +39,21 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: moreno_lab # Updated
+author: MorenoLab # Updated
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Moreno Lab # Updated
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
-# markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
-# commonmark:
-  # options: ["SMART", "FOOTNOTES"]
-  # extensions: ["strikethrough", "autolink", "table"]
+    - https://x.com/moreno_lab
+    - https://github.com/morenolab
+    - https://www.linkedin.com/company/moreno-lab/about/
+# markdown: CommonMark # Markdown parse settings
 
 # 4. Jekyll settings
 sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+excerpt_separator: # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 
 # 5. Collections
@@ -93,15 +89,9 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "MorenoLab" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo_moreno_home.png" # Site logo, also used in jekyll-seo-tag
-# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-# date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
-# google_analytics: ""
-# google_analytics_anonymize_ip: ""
-# service_worker: false # Will turn off the service worker if set to false
-# short_name: "Al" # The web application short name, defaults to the site title
-css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+title: "MorenoLab" # Site name or title
+logo: "/assets/logos/logo_moreno_home.png" # Site logo
+css_inline: true # Will insert all styles into a single <style> block
 
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
@@ -118,43 +108,32 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-
-# new sections
-
 - title: Team
   url: /team/
-
 - title: Projects
-  url: /project/
-
+  url: /projects/
 - title: News
   url: /news/
-
 - title: Publications
   url: /publications/
-
 - title: Contact
   url: /contact/
-
 - title: MXBiobank
   url: https://www.mxbiobank.org
-
 - title: MexVar
   url: https://morenolab.shinyapps.io/mexvar/
 
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+social_links: # Appears in sidebar.
   Twitter: https://x.com/moreno_lab
   GitHub: https://github.com/morenolab
+  LinkedIn: https://www.linkedin.com/company/moreno-lab/about/
 
-sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+sharing_links: # Appear at the bottom of single blog posts
   Twitter: "#0d94e7"
   facebook: "#3B5998"
   Email: true
 
-# Load custom fonts from fonts.google.com etc
-#
-# TIP: Try to keep the number of urls as low to reduce the performance cost
-#      If multiple fonts can be requested in a single url opt for this
+# Load custom fonts
 fonts:
   preconnect_urls:
     - https://fonts.gstatic.com

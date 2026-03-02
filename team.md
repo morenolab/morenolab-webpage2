@@ -6,6 +6,28 @@ feature_image: "/assets/images/team/portada2026.png"
 order: 2
 ---
 
+<style>
+  .team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 30px;
+    margin-top: 20px;
+  }
+  
+  /* Ensures images and text align nicely in columns */
+  .profile-card {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+  }
+
+  @media (max-width: 800px) {
+    .team-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
 ## Principal Investigator
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 40px;">
@@ -36,7 +58,7 @@ I hold a Master's degree in Human Rights, a specialization in Gender and Law, an
 ## Postdoctoral Fellows
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 40px;">
-  <img src="/assets/images/team/daniel.jpg" alt="Edder Daniel Bustos Diaz" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
+  <img src="/assets/images/team/Daniel.jpeg" alt="Edder Daniel Bustos Diaz" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
   <h2 style="margin: 0; border-bottom: none;">Edder Daniel Bustos Diaz</h2>
 </div>
 
@@ -49,11 +71,15 @@ I got my PhD degree from CINVESTAV (Integrative Biology), and I've previously wo
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 40px;">
-  <img src="/assets/images/team/Flor.png" alt="José Antonio Corona (Josian)" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
-  <h2 style="margin: 0; border-bottom: none;">José Antonio Corona (Josian)</h2>
+  <img src="/assets/images/team/Josian.jpeg" alt="Josian" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
+  <h2 style="margin: 0; border-bottom: none;">José Antonio Corona-Gomez (Josian)</h2>
 </div>
 
-Text
+I am a Biologist with a PhD in Biotechnology, specialized in bioinformatics and genomic data analysis. My research career has focused on gene expression analysis, comparative genomics, and the integration of high-dimensional molecular datasets.
+Currently, I am a postdoctoral researcher at Cinvestav in the Moreno Lab and lead Bioinformatics Research for LatinCells, an international initiative funded by the Chan Zuckerberg Initiative. LatinCells aims to map single-cell gene expression diversity across Indigenous and underrepresented populations in Latin America.
+
+My current research focuses on the analysis of single-cell RNA sequencing data from Latin American communities. I study how genetic background, particularly Native American ancestry influences immune cell composition and gene expression patterns. By integrating population genetics with single-cell transcriptomics, I aim to better understand how ancestry-related genomic variation shapes cellular phenotypes and immune diversity in the region.
+
 
 [Email](mailto:jose.corona@cinvestav.mx) · [Twitter](https://x.com/JAntonioCorona)
 
@@ -87,18 +113,20 @@ Outside of science, I enjoy swimming in the afternoons, listening to music while
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 40px;">
-  <img src="/assets/images/team/Consuelo_Quinto.png" alt="Consuelo Dayzú Quinto Cortés" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
+  <img src="/assets/images/team/Consuelo.jpeg" alt="Consuelo Dayzú Quinto Cortés" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
   <h2 style="margin: 0; border-bottom: none;">Consuelo Dayzú Quinto Cortés</h2>
 </div>
 
-I love popgen
+I am human population genomicist with a PhD in Genetics from the University of Arizona. I have always been passionate about human history, population genetics, and programming. I am currently the project manager of the project ‘A Latin American pangenome for mapping structural variation of medical relevance in underrepresented indigenous ancestries’, funded by the Wellcome Trust Institute.
+
+Outside the lab, I enjoy lettering, coloring, reading, candle making, practicing yoga and taking my dog Luna for walks.
 
 [Email](mailto:consuelo.quinto@cinvestav.mx) · [Google Scholar](https://scholar.google.com/citations?user=qJvrhPoAAAAJ&hl=es&oi=ao)
 
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 40px;">
-  <img src="/assets/images/team/Consuelo_Quinto.png" alt="Camila Tamburrini" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
+  <img src="/assets/images/team/Camila.png" alt="Camila Tamburrini" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
   <h2 style="margin: 0; border-bottom: none;">Camila Tamburrini</h2>
 </div>
 
@@ -179,7 +207,7 @@ I'm Daniela Orozco, currently finishing my PhD in ancient DNA research. I studie
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 40px;">
-  <img src="/assets/images/team/Octavio.jpg" alt="Octavio Zambada Moreno" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
+  <img src="/assets/images/team/Octavio.png" alt="Octavio Zambada Moreno" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; margin-right: 25px; margin-bottom: 0;">
   <h2 style="margin: 0; border-bottom: none;">Octavio Zambada Moreno</h2>
 </div>
 
@@ -196,7 +224,11 @@ I am a genomic biotechnologist interested in transcriptomics, gene regulation, a
   <h2 style="margin: 0; border-bottom: none;">Yuberlis González Ipuana:</h2>
 </div>
 
-I am a Colombian biologist and proudly a Wayuu indigenous woman from the Upper Guajira region. I graduated from the University of Magdalena and am currently completing my Master of Science degree in Biology at the University of Valle. My work focuses on population genetics and the study of diversity and genetic kinship among indigenous peoples of Colombia, with the aim of contributing to the recognition of our biological and cultural diversity. I recently completed an academic residency in Dr. Moreno's laboratory, strengthening my skills in genetic analysis and population genetics approaches. As a young indigenous woman, I am committed to contributing to science without losing touch with my roots, always remembering my parents' advice: "Wherever you go, never forget to return to your territory and never forget your roots."
+I am a Colombian biologist and proudly a Wayuu indigenous woman from the Upper Guajira region. I graduated from the University of Magdalena and am currently completing my Master of Science degree in Biology at the University of Valle. My work focuses on population genetics and the study of diversity and genetic kinship among indigenous peoples of Colombia, with the aim of contributing to the recognition of our biological and cultural diversity.
+
+I recently completed an academic residency in Dr. Moreno's laboratory, strengthening my skills in genetic analysis and population genetics approaches. As a young indigenous woman, I am committed to contributing to science without losing touch with my roots, always remembering my parents' advice: "Wherever you go, never forget to return to your territory and never forget your roots."
+
+[Email](mailto:gonzayube16@gmail.com)
 
 ---
 
@@ -226,9 +258,9 @@ Hi! I’m Vian, a data scientist passionate about genomics, biomedical data, and
 
 ## Collaborators
 
-- Karla Sandoval — [LANGEBIO-CINVESTAV](#)
-- Cei Abreu — [LANGEBIO-CINVESTAV](http://ceiabreulab.org/)
-- Selene Fernández Valverde — [LANGEBIO-CINVESTAV](http://regrnalab.github.io)
+- Karla Sandoval — [CINVESTAV](#)
+- Cei Abreu — [University of Edinburgh](https://cei.bio.ed.ac.uk/)
+- Selene Fernández Valverde — [UNSW Sydney](https://research.unsw.edu.au/people/dr-selene-fernandez-valverde)
 - María Ávila Arcos — [LIIGH](http://www.liigh.unam.mx/mavila)
 - Diego Cortez — [UNAM](http://www.ccg.unam.mx/en/Genome_Dynamics/TheProgram)
 - Samuel Canizales — [UNAM](http://www.pdcb.unam.mx/tutor/90/canizales-quinteros-samuel)
