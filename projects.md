@@ -21,6 +21,7 @@ We study how natural selection has shaped genetic variation in human populations
 We investigate ancient Mesoamerican populations through the analysis of ancient DNA. Our research integrates archaeology, biological anthropology, and genomics to reconstruct patterns of past population movement and interaction, and to understand how these processes shaped the genetic landscape of the region. We are particularly interested in developing a more comprehensive understanding of Mesoamerican population history through paleogenomic approaches. We explore genetic affinities using both uniparental and biparental markers and we also perform genomic sex determination and relatedness analyses to better understand ancient social organization, mobility, and kinship systems in the past.
 Currently, our research focuses on two major archaeological sites: Cañada de la Virgen, located in the Bajío region of central Mexico, and Teotihuacan in central Mexico, one of the most important urban centers of pre-Hispanic Mesoamerica. Community engagement is a central pillar of our research framework, ensuring that all work involving human remains is carried out with respect, transparency, and in dialogue with local communities. 
 These projects are conducted in close collaboration with the Instituto Nacional de Antropología e Historia (INAH). In doing so, our research operates within national heritage regulations and in coordination with Mexican cultural authorities.
+
 You can view our **[gallery](/gallery/)** to see our work in the field.
 
 ### Latin Pangenomes Project
