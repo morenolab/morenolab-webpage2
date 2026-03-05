@@ -21,22 +21,18 @@ Our work spans population structure, demographic inference, selection, adaptive 
 We investigate patterns of genetic diversity, ancestry, and demographic history to understand population structure and its implications for health and disease.
 
 ### Medical Genomics
+The Mexican Biobank's genomic data is used to conduct GWAS studies, linking genotypes to phenotypes and characterizing genetic disease risks in order to develop more targeted health strategies for the Mexican population.
 
 ### Epigenetic landscape in Latin America
+This project expands the LatinGenomes initiative to build a comprehensive DNA methylation atlas for Latin America's genetically diverse populations, addressing the gap left by European-centric epigenetic research.
 
-### Ancient DNA
+### Human Evolution and Adaptation
+This research investigates natural selection's influence on genetic variation across Latin American and Oceanian populations by combining multiple genomic methods to uncover adaptive signatures and their biological, environmental, and clinical relevance in historically underrepresented groups.
+
+### Ancient DNA in Mesoamerica
+Using ancient DNA from key Mesoamerican sites, this research combines genomics, archaeology, and anthropology to reconstruct pre-Hispanic population history, social organization, and kinship systems, while maintaining close collaboration with local communities and Mexican cultural authorities.
 
 [Learn more about our research →](/projects/)
-
----
-
-## Recent Publications
-
-- **Moreno A**, Ortiz C, et al. *Nature Genetics* (2025).  
-- Spangenberg L, **Moreno A**. *American Journal of Human Genetics* (2024).  
-- Ortiz C, Moreno A. *Genome Medicine* (2023).
-
-[Full publication list →](/publications/)
 
 ---
 

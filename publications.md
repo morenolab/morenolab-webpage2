@@ -7,24 +7,8 @@ order: 5
 ---
 
 <style>
-  /* 1. Restore Header/Logo Integrity */
-  /* We remove the 'margin: 0' from the global wrappers to stop the overlap */
-  .unit.whole, .content, .wrapper, .container, .post, #main, .inner {
-    max-width: 96% !important;
-    width: 96% !important;
-    padding: 0 20px !important;
-    /* Removed margin: 0 !important to let the theme handle the header spacing */
-  }
-
-  /* 2. Fix Banner/Logo Overlap */
-  header, .site-header, .nav-wrapper {
-    position: relative !important;
-    z-index: 10 !important;
-    margin-bottom: 20px !important;
-  }
-
   .feature-image-container {
-    margin-top: 0 !important;
+    margin-top: 20px !important;
   }
 
   /* 3. Search bar styling */
@@ -37,33 +21,50 @@ order: 5
     font-size: 16px;
   }
 
-  /* 4. The Table Fix (Keeping it wide and scrollable) */
+  /* 4. The Table Fix (Wider layout with corrected spacing) */
   .table-responsive {
-    width: 96%;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
     overflow-x: auto;
     display: block;
-    clear: both; /* Ensures it stays below the banner/header */
+    clear: both;
+    background-color: #fff;
   }
 
   .pub-table {
-    width: 96% !important;
-    min-width: 1000px; 
+    width: 94% !important;   /* Provides breathing room at the screen edges */
+    max-width: 1600px; 
+    margin: 0 auto;
+    min-width: 1100px; 
     border-collapse: collapse;
-    font-size: 0.85em;
-    line-height: 1.5;
+    font-size: 0.88em;
+    line-height: 1.6;
+    table-layout: fixed;     /* Fixes column widths to prevent text breaking */
   }
 
+  /* Specific Column Widths adjusted for your layout */
+  .pub-table th:nth-child(1), .pub-table td:nth-child(1) { width: 85px; }   /* Year */
+  .pub-table th:nth-child(2), .pub-table td:nth-child(2) { width: 28%; }   /* Authors */
+  .pub-table th:nth-child(3), .pub-table td:nth-child(3) { width: 18%; }   /* Journal */
+  .pub-table th:nth-child(4), .pub-table td:nth-child(4) { width: auto; }  /* Title */
+  .pub-table th:nth-child(5), .pub-table td:nth-child(5) { width: 85px; text-align: center; } /* Link */
+
   .pub-table th, .pub-table td {
-    padding: 15px 10px;
+    padding: 18px 15px;
     border-bottom: 1px solid #eee;
     vertical-align: top;
-    text-align: left;
+    word-wrap: break-word;
   }
 
   .pub-table th {
     background-color: #f8f9fa;
     font-weight: bold;
     color: #333;
+    white-space: nowrap;     /* Prevents "Year" and "Link" from wrapping */
   }
 
   .lead-author {
